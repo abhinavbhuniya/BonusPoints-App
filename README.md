@@ -19,3 +19,46 @@ Key Features
 🧪 40+ security test cases passed with 100% mitigation
 
 Perfect for small to medium educational institutions digitizing student data securely.
+
+
+## 📱 App Screenshots
+
+### 🔧 Admin Setup
+| Admin Setup | Faculty Added |
+|------------|---------------|
+| ![](assets/screenshots/Screenshot_20251114-001108.png) | ![](assets/screenshots/Screenshot_20251114-001058.png) |
+
+---
+
+### 🔐 Login & Credentials
+| Login Screen | Demo Credentials |
+|--------------|------------------|
+| ![](assets/screenshots/Screenshot_20251114-001017.png) | ![](assets/screenshots/Screenshot_20251114-001113.png) |
+
+---
+
+### 🏠 Dashboard & Navigation
+| Dashboard | Award Points |
+|-----------|--------------|
+| ![](assets/screenshots/Screenshot_20251114-001149.png) | ![](assets/screenshots/Screenshot_20251114-001248.png) |
+
+---
+
+### 🎓 Student Records
+| Registration Exists | Student Details |
+|----------------------|-----------------|
+| ![](assets/screenshots/Screenshot_20251114-001323.png) | ![](assets/screenshots/Screenshot_20251114-001339.png) |
+
+---
+
+### 🏆 Leaderboard & Logout
+| Leaderboard | Logout |
+|-------------|--------|
+| ![](assets/screenshots/Screenshot_20251114-001347.png) | ![](assets/screenshots/Screenshot_20251114-001029.png) |
+
+---
+
+### ➕ Add Faculty (Extra Screenshots)
+| Add Faculty | Confirmation |
+|--------------|-------------|
+| ![](assets/screenshots/Screenshot_20251114-001116.png) | ![](assets/screenshots/Screenshot_20251114-001125.png) |
