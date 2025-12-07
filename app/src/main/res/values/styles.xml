@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Custom theme with smooth transitions -->
+    <style name="SmoothAppTheme" parent="Theme.Material3.DayNight">
+        <item name="android:windowAnimationStyle">@style/SmoothWindowAnimations</item>
+        <item name="android:interpolator">@android:anim/accelerate_decelerate_interpolator</item>
+    </style>
+
+    <style name="SmoothWindowAnimations" parent="@android:style/Animation.Activity">
+        <item name="android:activityOpenEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:activityOpenExitAnimation">@android:anim/slide_out_right</item>
+        <item name="android:activityCloseEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:activityCloseExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+</resources>
